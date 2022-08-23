@@ -6,7 +6,7 @@
 </h1>
 
 ## Sobre ##
-<p>Este projeto faz parte do curso de Desenvolvimento Web Completo do instrutor Jorge Sant Ana na Udemy, feito em HTML, utilizando CSS e BootStrap nos estilos e JavaScript para os cálculos</p>
+<p>Este projeto faz parte do curso de Desenvolvimento Web Completo do instrutor Jorge Sant Ana na Udemy, feito em HTML, utilizando CSS e BootStrap nos estilos e JavaScript para os cálculos.</p>
 
 ## Features ##
 
